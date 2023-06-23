@@ -75,4 +75,4 @@ function tinys_shortcode_tslide($arguments){
     return $shortcodeoutput;
     
 }
-add_shortcode( "tslide", "tinys_shortcode_tslide" );
+add_shortcode( "tslide", "tinys_shortcode_tslide" ); 
