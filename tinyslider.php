@@ -72,7 +72,7 @@ function tinys_shortcode_tslide($arguments){
     </div>
     EOD;
 
-    return $shortcodeoutput;
+    return $shortcodeoutput; 
     
 }
 add_shortcode( "tslide", "tinys_shortcode_tslide" ); 
